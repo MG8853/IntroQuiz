@@ -2,7 +2,8 @@
   "private": true,
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "test",
+    "bot": "node index.js"
   },
   "dependencies": {
     "@discordjs/opus": "^0.1.0",
